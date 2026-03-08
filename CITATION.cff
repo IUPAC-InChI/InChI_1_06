@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this software.
+type: software
+authors:
+  - family-names: Goodman
+    given-names: Jonathan M.
+  - family-names: Pletnev
+    given-names: Igor
+  - family-names: Thiessen
+    given-names: Paul
+  - family-names: Bolton
+    given-names: Evan
+  - family-names: Heller
+    given-names: Stephen R.
+doi: 10.1186/S13321-021-00517-Z
+identifiers:
+  - type: doi
+    value: 10.1186/S13321-021-00517-Z
+  - type: other
+    value: urn:issn:1758-2946
+  - type: other
+    value: pmcid:8147039
+keywords:
+  - International Chemical Identifier
+title: 'InChI version 1.06: now more than 99.99% reliable'
